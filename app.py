@@ -3,7 +3,7 @@ import requests
 import time
 
 # --- CONFIG ---
-API_KEY = "YOUR_API_KEY"
+API_KEY = "sk-c9J5tMbDtBUm7BwWJd4gHKGSXAjsUzfOVtKhLFDzxgYFByIa"
 API_URL = "https://api.example.com/v1/video/generate"  # replace with real API
 
 st.set_page_config(page_title="AI Video Generator", layout="centered")
