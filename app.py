@@ -3,8 +3,8 @@ import requests
 import time
 
 # --- CONFIG ---
-API_KEY = "sk-c9J5tMbDtBUm7BwWJd4gHKGSXAjsUzfOVtKhLFDzxgYFByIa"
-API_URL = "https://https://platform.stability.ai/"  # replace with real API
+API_KEY = "sk-SKF34vIczWNfGWemwoF03o8mCSS0Zd21f9eVUaGetR9XvSCK"
+API_URL = "https://api.stability.ai/v2beta/video/generate"  # replace with real API
 
 st.set_page_config(page_title="AI Video Generator", layout="centered")
 
